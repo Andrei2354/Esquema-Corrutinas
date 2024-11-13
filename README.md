@@ -1,7 +1,10 @@
 # Esquema-Corrutinas
+Una excepción es un evento inesperado que ocurre durante la ejecución del código. Debes implementar formas adecuadas de manejar estas excepciones para evitar que tu app falle y tenga un impacto negativo en la experiencia del usuario.
 
 implementation("androidx.activity:activity-ktx:1.7.1")
 implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1")
+
+-----
 
 ![image](https://github.com/user-attachments/assets/23dde6a7-5195-48a4-a6a7-ba70773023e3)
 
